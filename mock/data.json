@@ -1,0 +1,87 @@
+{
+  "salesTotal":114779,
+  "salesToday":112356,
+  "salesGrowthLastDay": -19.16,
+  "salesGrowthLastMonth": 56.67,
+
+  "visitTotal": 88460,
+  "visitToday": 1123,
+  "visitTrend": [
+    610,
+    432,
+    220,
+    534,
+    790,
+    430,
+    220,
+    320,
+    532,
+    320,
+    834,
+    690,
+    530,
+    220,
+    620
+  ],
+
+  "payTotal": 182425,
+  "payRate": 60.2,
+  "payTrend": [
+    410,
+    82,
+    200,
+    334,
+    390,
+    330,
+    220,
+    150,
+    82,
+    200,
+    134,
+    290,
+    330,
+    150
+  ],
+
+  "activityRate": 58,
+  "activityGrowthLastDay": -17.7,
+  "activityGrowthLastMonth": 47.12,
+
+  "Axis": [
+    "25.94",
+    "25.99",
+    "26.08",
+    "26.10",
+    "26.13",
+    "26.27"
+  ],
+  "Angular_Velocity_X": [147, 148, 148, 147, 148, 148],
+  "Angular_Velocity_Y": [260,192,156,192,216,260],
+  "Angular_Velocity_Z": [349,342,336,355,337,346],
+
+  "Angular_Acceleration_X": [104,87,85,89,89,87],
+  "Angular_Acceleration_Y": [193,193,197,199,203,206],
+  "Angular_Acceleration_Z": [108,35,98,72,50,29],
+  
+  "saleRank": {
+    "online": {
+      "name": [
+        "Fire-Fighting Robot",
+        "Exploration Robot",
+        "Medical Robot",
+        "Others"
+      ],
+      "value": [24, 31, 30, 4]
+    },
+    "shop": {
+      "name": [
+        "Fire-Fighting Robot",
+        "Exploration Robot",
+        "Medical Robot",
+        "Others"
+      ],
+      "value": [68, 15, 41, 56, 70]
+    }
+  }
+
+}
