@@ -1,0 +1,6 @@
+AcX = -147 | AcY = 260 | AcZ = -349 | Tmp = 25.94 | GyX = -1042 | GyY = 193 | GyZ = -108
+AcX = -148 | AcY = 192 | AcZ = -343 | Tmp = 25.99 | GyX = -870 | GyY = 193 | GyZ = 35
+AcX = -148 | AcY = 156 | AcZ = -336 | Tmp = 26.08 | GyX = -852 | GyY = 197 | GyZ = 98
+AcX = -147 | AcY = 192 | AcZ = -355 | Tmp = 26.08 | GyX = -894 | GyY = 199 | GyZ = 72
+AcX = -148 | AcY = 216 | AcZ = -337 | Tmp = 26.13 | GyX = -898 | GyY = 203 | GyZ = 50
+AcX = -148 | AcY = 160 | AcZ = -346 | Tmp = 26.27 | GyX = -873 | GyY = 236 | GyZ = 29

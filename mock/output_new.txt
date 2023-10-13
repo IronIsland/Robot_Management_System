@@ -1,0 +1,260 @@
+38     0     9     turn left
+
+50     50     9     forward
+
+50     50     6     forward
+
+50     50     3     forward
+
+50     50     3     forward
+
+50     50     2     forward
+
+50     50     5     forward
+
+50     50     50     forward
+
+50     50     15     forward
+
+50     50     16     forward
+
+50     50     15     forward
+
+50     50     19     forward
+
+15     50     50     forward
+
+50     50     11     forward
+
+50     50     50     forward
+
+50     50     15     forward
+
+50     50     16     forward
+
+50     50     17     forward
+
+50     50     21     forward
+
+50     50     21     forward
+
+50     50     21     forward
+
+50     50     50     forward
+
+50     50     19     forward
+
+50     50     50     forward
+
+50     50     18     forward
+
+50     50     50     forward
+
+50     50     50     forward
+
+50     50     49     forward
+
+50     50     43     forward
+
+50     50     43     forward
+
+50     50     44     forward
+
+49     50     35     forward
+
+50     50     36     forward
+
+48     19     14     forward
+
+49     18     13     forward
+
+50     16     12     turn left
+
+50     12     11     turn left
+
+50     10     10     turn left
+
+49     11     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     9     10     turn left
+
+50     10     10     turn left
+
+49     10     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     12     10     turn left
+
+50     10     10     turn left
+
+50     10     10     turn left
+
+50     11     10     turn left
+
+50     11     10     turn left
+
+50     12     11     turn left
+
+19     41     16     forward
+
+38     38     15     forward
+
+16     34     15     forward
+
+12     30     12     forward
+
+16     21     16     forward
+
+16     16     50     turn right
+
+29     50     42     forward
+
+30     50     43     forward
+
+29     50     47     forward
+
+29     50     50     forward
+
+31     50     50     forward
+
+34     50     50     forward
+
+21     50     50     forward
+
+16     50     50     forward
+
+16     50     21     forward
+
+4     50     21     forward
+
+3     48     22     forward
+
+3     44     22     forward
+
+2     42     22     forward
+
+3     39     23     forward
+
+3     37     22     forward
+
+3     36     22     forward
+
+2     34     22     forward
+
+3     32     22     forward
+
+2     30     22     forward
+
+3     30     22     forward
+
+3     28     21     forward
+
+3     28     22     forward
+
+3     25     24     forward
+
+3     23     46     forward
+
+3     21     50     forward
+
+3     20     49     forward
+
+2     19     50     forward
+
+2     18     50     forward
+
+3     16     50     turn right
+
+2     20     50     forward
+
+2     19     50     forward
+
+1     14     50     turn right
+
+2     16     50     turn right
+
+3     17     50     forward
+
+2     15     50     turn right
+
+2     18     50     forward
+
+3     16     50     turn right
+
+2     18     50     forward
+
+2     16     50     turn right
+
+3     18     50     forward
+
+3     16     50     turn right
+
+3     19     50     forward
+
+4     16     50     turn right
+
+4     18     50     forward
+
+3     16     50     turn right
+
+4     20     48     forward
+
+4     17     50     forward
+
+4     14     48     turn right
+
+4     15     50     turn right
+
+6     19     50     forward
+
+6     16     50     turn right
+
+8     20     50     forward
+
+8     50     50     forward
+
+13     13     50     turn right
+
+15     50     50     forward
+
+15     50     50     forward
+
+15     50     50     forward
+
+12     50     50     forward
+
+16     50     14     forward
+
+9     50     15     forward
+
+8     50     18     forward
+
+4     48     19     forward
+
+4     43     20     forward
+
+2     38     21     forward
+
